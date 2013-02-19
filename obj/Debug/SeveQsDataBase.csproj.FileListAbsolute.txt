@@ -1,0 +1,10 @@
+C:\Users\Hendrik\Documents\Visual Studio 11\Projects\TaxiTaxiWPF\SeveQsDataBase\bin\Debug\SeveQsDataBase.dll
+C:\Users\Hendrik\Documents\Visual Studio 11\Projects\TaxiTaxiWPF\SeveQsDataBase\bin\Debug\SeveQsDataBase.pdb
+C:\Users\Hendrik\Documents\Visual Studio 11\Projects\TaxiTaxiWPF\SeveQsDataBase\obj\Debug\SeveQsDataBase.csprojResolveAssemblyReference.cache
+C:\Users\Hendrik\Documents\Visual Studio 11\Projects\TaxiTaxiWPF\SeveQsDataBase\obj\Debug\SeveQsDataBase.dll
+C:\Users\Hendrik\Documents\Visual Studio 11\Projects\TaxiTaxiWPF\SeveQsDataBase\obj\Debug\SeveQsDataBase.pdb
+E:\Users\Hendrik\Documents\Visual Studio 11\Projects\TaxiTaxiWPF\SeveQsDataBase\bin\Debug\SeveQsDataBase.dll
+E:\Users\Hendrik\Documents\Visual Studio 11\Projects\TaxiTaxiWPF\SeveQsDataBase\bin\Debug\SeveQsDataBase.pdb
+E:\Users\Hendrik\Documents\Visual Studio 11\Projects\TaxiTaxiWPF\SeveQsDataBase\obj\Debug\SeveQsDataBase.dll
+E:\Users\Hendrik\Documents\Visual Studio 11\Projects\TaxiTaxiWPF\SeveQsDataBase\obj\Debug\SeveQsDataBase.pdb
+E:\Users\Hendrik\Documents\Visual Studio 11\Projects\TaxiTaxiWPF\SeveQsDataBase\obj\Debug\SeveQsDataBase.csprojResolveAssemblyReference.cache
